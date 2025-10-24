@@ -59,7 +59,7 @@ export default {
 				),
 			},
 			theme: {
-				title: "myAuth",
+				title: "xin hãy login",
 				primary: "#0051c3",
 				favicon: "https://workers.cloudflare.com//favicon.ico",
 				logo: {
